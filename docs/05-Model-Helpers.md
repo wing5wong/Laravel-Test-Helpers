@@ -59,5 +59,8 @@ And now we're back to green.
 Currently, you can assert:
 
 - `assertBelongsTo`
+- `assertBelongsToMany`
 - `assertHasOne`
 - `assertHasMany`
+- `assertMorphTo`
+- `assertMorphMany`
